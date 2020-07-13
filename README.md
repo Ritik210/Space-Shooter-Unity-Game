@@ -1,2 +1,2 @@
 # Space-Shooter-Unity-Game
-This is an Unity-2D
+This is an Unity-2D based shooter
